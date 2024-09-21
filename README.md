@@ -7,4 +7,4 @@
 ### MY EXPERIENCE
 I have done my internship in Cognizant Technology Solutions as AWS solutions architect, Thats the only experience i had and I good at database, html and got knowledge in programming.
 #### MY FAVOURITE MEME:
-[!(Image URL)](https://pin.it/Rfgburzwg)
+![Image URL](https://pin.it/Rfgburzwg)
